@@ -20,10 +20,10 @@ Current build status
 
 Current release info
 ====================
-[![Conda Recipe](https://img.shields.io/badge/recipe-bson-green.svg)](https://anaconda.org/conda-forge/bson)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson)
-[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-bson-green.svg)](https://anaconda.org/conda-forge/bson) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bson.svg)](https://anaconda.org/conda-forge/bson) |
 
 Installing bson
 ===============
