@@ -1,6 +1,6 @@
 {% set name = "bson" %}
-{% set version = "0.5.4" %}
-{% set sha256 = "671dc3dcb8b8e1cef2a8fa7251ed15488f330ff7b009268ecf9f526737c1e739" %}
+{% set version = "0.5.5" %}
+{% set sha256 = "70eac905fce355f4f523a557514605246c4d6294622fca9ae00d3172daee0029" %}
 
 package:
   name: {{ name|lower }}
