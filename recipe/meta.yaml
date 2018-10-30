@@ -1,6 +1,6 @@
 {% set name = "bson" %}
-{% set version = "0.5.4" %}
-{% set sha256 = "671dc3dcb8b8e1cef2a8fa7251ed15488f330ff7b009268ecf9f526737c1e739" %}
+{% set version = "0.5.7" %}
+{% set sha256 = "19396624cbd30b7d74fff7bcc1a8db1c3d92b6469fce8a5bdab175dd0129a710" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
