@@ -24,7 +24,7 @@ requirements:
   run:
     - python
     - six
-    - python-dateutil>=2.4.0
+    - python-dateutil >=2.4.0
 
 test:
   imports:
