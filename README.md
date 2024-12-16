@@ -144,5 +144,4 @@ Feedstock Maintainers
 =====================
 
 * [@ChrisBarker-NOAA](https://github.com/ChrisBarker-NOAA/)
-* [@robmcmullen](https://github.com/robmcmullen/)
 
