@@ -1,6 +1,6 @@
 {% set name = "bson" %}
-{% set version = "0.5.9" %}
-{% set sha256 = "84a06dd1fa350d5814d9845abad982e8ac4c9768c4f41afeaa5fdb6d58570158" %}
+{% set version = "0.5.10" %}
+{% set sha256 = "d6511b2ab051139a9123c184de1a04227262173ad593429d21e443d6462d6590" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
@@ -41,5 +41,4 @@ about:
 
 extra:
   recipe-maintainers:
-    - robmcmullen
     - ChrisBarker-NOAA
